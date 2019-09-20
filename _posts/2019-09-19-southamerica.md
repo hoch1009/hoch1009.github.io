@@ -12,16 +12,16 @@ tags:
   - Roadtrip
 last_modified_at: 2019-09-19
 gallery:
-  - url: /assets/images/southamerica2019/IMG_6418_tn.jpg
-    image_path: /assets/images/southamerica2019/IMG_6418.jpg
+  - url: /assets/images/southamerica2019/IMG_6418.jpg
+    image_path: /assets/images/southamerica2019/IMG_6418_tn.jpg
     alt: "placeholder"
     title: "Sunset in Lima"
-  - url: /assets/images/southamerica2019/IMG_6420_tn.jpg
-    image_path: /assets/images/southamerica2019/IMG_6420.jpg
+  - url: /assets/images/southamerica2019/IMG_6420.jpg
+    image_path: /assets/images/southamerica2019/IMG_6420_tn.jpg
     alt: "placeholder"
     title: "Plaza de Armas Lima"
-  - url: /assets/images/southamerica2019/IMG_6422_tn.jpg
-    image_path: /assets/images/southamerica2019/IMG_6422.jpg
+  - url: /assets/images/southamerica2019/IMG_6422.jpg
+    image_path: /assets/images/southamerica2019/IMG_6422_tn.jpg
     alt: "placeholder"
     title: "Cathedral of Lima"
   - url: /assets/images/southamerica2019/IMG_6424_tn.jpg
