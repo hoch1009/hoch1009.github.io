@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Southamerica 03/2019"
 excerpt: "We traveled through Peru, Bolivia, Chile and the Easter Island in March. It was not I was expecting. It was an awesome experience I am very happy to have made."
 categories:
