@@ -601,7 +601,7 @@ Weeks and months went by and she did all the planning. Occasionally we would tal
 * Arrive in Lima and spend two days there.
 * Take a bus from Lima to Arequipa.
 * Take a bus from Arequipa to Cusco.
-* Explore Cusco and go to Macchu Picchu.
+* Explore Cusco and go to Machu Picchu.
 * Take a bus from Cusco to La Paz.
 * Spend little under 24 hours in La Paz and continue to Uyuni (with a stop in Puno) by bus.
 * Spend a day at the Salar de Uyuni and continue by bus towards San Pedro de Atacama.
@@ -629,9 +629,9 @@ As mentioned: all busses were very good. The last one from Uyuni to San Pedro de
 
 ### Highlights
 
-One might think that Macchu Picchu would be the highlight but to be honest: it wasn't. You cannot go there and explore the place by yourself. Your guide will get you through the site in about an hour. You will be dropped of at a point from where you cannot go back. Park rangers will stop you even if you try. On your way out you are hurried by the rangers to not stay anywhere for more than 5 minutes. Given the fact that its a little hussle to get there it was disappointing.
+One might think that Machu Picchu would be the highlight but to be honest: it wasn't. You cannot go there and explore the place by yourself. Your guide will get you through the site in about an hour. You will be dropped of at a point from where you cannot go back. Park rangers will stop you even if you try. On your way out you are hurried by the rangers to not stay anywhere for more than 5 minutes. Given the fact that its a little hussle to get there it was disappointing.
 
-Driving to the Colca Canyon was way better. Or exploring Cusco. Or driving along the west coast towards Santiago. I will continue to remember those moments before I think about the fact that I was at Macchu Picchu.
+Driving to the Colca Canyon was way better. Or exploring Cusco. Or driving along the west coast towards Santiago. I will continue to remember those moments before I think about the fact that I was at Machu Picchu.
 
 And I will sure remember our days on the Easter Island. I wasn't very happy to be surrounded by water and not beeing able to "flee" but I enjoyed it there. The waves are gigantic and loud. The people are friendly and laidback. The food (especially the vegetarian options) was good. Being in a store with empty shelves was nice because you quickly realize that you do not need something specific and you learn to appreciate the luxury you find yourself in when you are back at home.
 
