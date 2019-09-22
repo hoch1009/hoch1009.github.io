@@ -619,11 +619,11 @@ In hindsight it was all wrong. We had an awesome time and nothing happened.
 
 ### Our bus trips:
 
-* Lima to Arequipa with Cruz del Sur (17 hours, mostly overnight)
-* Arequipa to Cusco with Cruz del Sur (10 hours, overnight)
-* Cusco to La Paz with Peru Hop (24 hours; stop in Puno)
-* La Paz to Uyuni with Todo Turismo (11 hours, overnight)
-* Uyuni to San Pedro de Atacama (12 hours, during the day)
+* Lima to Arequipa with [Cruz del Sur](https://www.cruzdelsur.com.pe) (17 hours, mostly overnight)
+* Arequipa to Cusco with [Cruz del Sur](https://www.cruzdelsur.com.pe) (10 hours, overnight)
+* Cusco to La Paz with [Peru Hop](https://www.peruhop.com) (24 hours; stop in Puno)
+* La Paz to Uyuni with [Todo Turismo](https://www.todoturismosrl.com) (11 hours, overnight)
+* Uyuni to San Pedro de Atacama with Cruz del Norte (12 hours, during the day)
 
 As mentioned: all busses were very good. The last one from Uyuni to San Pedro de Atacama became uncomfortable and we got a little annoyed because we sat in enough busses. Anyway, we crossed the border and arrived safely in San Pedro de Atacama.
 
@@ -635,7 +635,7 @@ Driving to the Colca Canyon was way better. Or exploring Cusco. Or driving along
 
 And I will sure remember our days on the Easter Island. I wasn't very happy to be surrounded by water and not beeing able to "flee" but I enjoyed it there. The waves are gigantic and loud. The people are friendly and laidback. The food (especially the vegetarian options) was good. Being in a store with empty shelves was nice because you quickly realize that you do not need something specific and you learn to appreciate the luxury you find yourself in when you are back at home.
 
-*As I said: it was awesome and I would recommend it to everyone*
+**As I said: it was awesome and I would recommend it to everyone**
 
 
 {% include gallery id="gallery" caption="Some impressions from those 4 weeks." %}
