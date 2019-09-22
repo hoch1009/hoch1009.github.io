@@ -4,10 +4,11 @@ excerpt: "How we got a decent purchase report out of SAP without extra software 
 categories:
   - Python
 tags:
-  - Python
+  - python
   - numpy
   - pandas
-  - Microsoft Excel
+  - microsoft
+  - excel
   - purchasing
   - reporting
 last_modified_at: 2018-01-09

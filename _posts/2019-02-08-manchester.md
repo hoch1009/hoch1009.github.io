@@ -4,11 +4,11 @@ excerpt:
 categories:
   - Travel
 tags:
-  - Manchester
+  - manchester
   - vacation
-  - England
-  - Great Britain
-  - Europe  
+  - england
+  - great britain
+  - europe  
 last_modified_at: 2019-02-08
 ---
 Instead of celebrating the first Sunday in Advent we made a trip to Manchester.

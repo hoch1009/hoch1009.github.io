@@ -5,11 +5,13 @@ excerpt: "We traveled through Peru, Bolivia, Chile and the Easter Island in Marc
 categories:
   - Travel
 tags:
-  - Peru
-  - Bolivia
-  - Chile
-  - Easter Island
-  - Roadtrip
+  - peru
+  - bolivia
+  - chile
+  - easter Island
+  - roadtrip
+  - south america
+  - tourism
 last_modified_at: 2019-09-19
 gallery:
   - url: /assets/images/southamerica2019/IMG_6418.jpg
