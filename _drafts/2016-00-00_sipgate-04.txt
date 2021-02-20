@@ -1,0 +1,9 @@
+The system was working and I was wondering if there was even someone from work calling on one of my private numbers. 
+Reading the CSV file is a hassle and furthermore I preferred having a webpage. I decided to write the log into a database.
+
+I adapted the code as follows:
+
+
+To be able to look at the log without having to use "DB Browser SQLite" I am using some options to have the log exported to a txt file:
+
+sqlite -
