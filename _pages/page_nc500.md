@@ -1,10 +1,10 @@
 ---
-title: "NC500 and another 1800 miles"
+title: "NC500"
 layout: single
 permalink: /nc500/
 sitemap: true
 toc: true
-excerpt: "We set out to drive the North Coast 500 and ended up with almost 2375 miles on the odometer. It was a great trip."
+# excerpt: "We set out to drive the North Coast 500 and ended up with almost 2375 miles on the odometer. It was a great trip."
 categories:
   - travel
 tags:
@@ -19,6 +19,10 @@ gallery:
     alt: "placeholder"
     title: "Sunset in Lima"
 ---
+
+... or: how to spend 11 days in Scotland on a motorcycle. 
+
+## Introduction
 
 I got my drivers license for riding a motor cycle in 2018, bought a Triumph Street Twin and did a small tour in Saxony with one of my best friends. It was a nice experience and so we planned on doing a longer trip. We decided to give Scotland a third try. We have been there two times, every time by car and liked it a lot. So why not try it on two motorcycles.
 
