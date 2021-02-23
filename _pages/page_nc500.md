@@ -393,11 +393,11 @@ gallery:
 - url: /assets/images/nc500/IMG_8226.jpeg
   image_path: /assets/images/nc500/IMG_8226_tn.jpeg
   alt: ""
-  title: "Cabin impressions #3"
+  title: "Cabin impression #3"
 - url: /assets/images/nc500/IMG_8227.jpeg
   image_path: /assets/images/nc500/IMG_8227_tn.jpeg
   alt: ""
-  title: "Cabin impressions #4"
+  title: "Cabin impression #4"
 - url: /assets/images/nc500/IMG_8229.jpeg
   image_path: /assets/images/nc500/IMG_8229_tn.jpeg
   alt: ""
@@ -488,7 +488,7 @@ We continued on the A99 and stopped in Tain for coffee and cake. We did not take
 
 -   [Route](https://kurv.gr/tNCta) @ kurviger.de (275km)
 
-As we finished the NC500 and almost drive a circle we decided to spend the rest of our days in Scotland in the southeast part of the Highlands. We drove through the Cairngorms National Park and made a "rain break" in Aviemore at a [Costa Coffee](https://www.costa.co.uk/locations/store-locator/map#latitude=57.19448999999999&longitude=-3.823812). It was quite busy despite the rain. The weather did not get better and we were quite soaked when we finally arrived in the [Royal Dunkeld Hotel](https://royaldunkeld.co.uk) in Dunkeld. We hang our clothes to dry and went into the hotel to eat something.
+As we finished the NC500 and almost drove a circle we decided to spend the rest of our days in Scotland in the southeast part of the Highlands. We drove through the Cairngorms National Park and made a "rain break" in Aviemore at a [Costa Coffee](https://www.costa.co.uk/locations/store-locator/map#latitude=57.19448999999999&longitude=-3.823812). It was quite busy despite the rain. The weather did not get better and we were quite soaked when we finally arrived in the [Royal Dunkeld Hotel](https://royaldunkeld.co.uk) in Dunkeld. We hang our clothes to dry and went into the hotel to eat something.
 
 ## Dunkeld - Lumphanan (8/11)
 
