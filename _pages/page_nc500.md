@@ -506,7 +506,7 @@ The breakfast was just some candy bars and an orange juice. We drove straight to
 
 -   [Route](https://kurv.gr/3z9aW) @ kurviger.de (221km)
 
-We decided to stay as close to the coast as possible on our way down south and did not take the A92 from Dundee to Edinburgh. Anyway as we drove through Edinburgh we stopped at [Edinburgh Triumph](<https://www.edinburghtriumph.co.uk>) and I got the baselayer replaced (it had some holes in it which I saw a day after I bought it). They didnt argue and replaced it immediately. To keep the drive on the next day short we drove little further south and stayed in [The Golf Tavern](https://www.golftavernhaddington.co.uk) in Haddington. I wanted to put a few drinks away but Alex wasn't up for it. So I just had to Belhaven Best and prepared myself mentally for the next day and the ferry.
+We decided to stay as close to the coast as possible on our way down south and did not take the A92 from Dundee to Edinburgh. Anyway as we drove through Edinburgh we stopped at [Edinburgh Triumph](<https://www.edinburghtriumph.co.uk>) and I got the baselayer replaced (it had some holes in it which I saw a day after I bought it). They didnt argue and replaced it immediately. To keep the drive on the next day short we drove little further south and stayed in [The Golf Tavern](https://www.golftavernhaddington.co.uk) in Haddington. I wanted to put a few drinks away but Alex wasn't up for it. So I just had two Belhaven Best and prepared myself mentally for the next day and the ferry.
 
 ## Haddington - Newcastle upon Tyne (11/11)
 
