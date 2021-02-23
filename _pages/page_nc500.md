@@ -263,7 +263,7 @@ gallery:
   alt: ""
   title: "Waterfall near the Whaligoe steps #1"
 - url: /assets/images/nc500/IMG_8063.jpeg
-- url: /assets/images/nc500/IMG_8063_tn.jpeg
+  image_path: /assets/images/nc500/IMG_8063_tn.jpeg
   alt: ""
   title: "Waterfall near the Whaligoe steps #2"
 - url: /assets/images/nc500/IMG_8072.jpeg
